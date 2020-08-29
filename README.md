@@ -1,5 +1,5 @@
 # mah-urll
-This a url shorting application developed by using Express ,node , Mongo DB , React js.
+This is a url shorting application developed by using Express ,node , Mongo DB , React js.
 #steps for using :-
 
 download the repo or clone
